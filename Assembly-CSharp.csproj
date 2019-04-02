@@ -58,6 +58,7 @@
      <Compile Include="Assets\CoinCollision.cs" />
      <Compile Include="Assets\CoinController2D.cs" />
      <Compile Include="Assets\Collision.cs" />
+     <Compile Include="Assets\EnemyController.cs" />
      <Compile Include="Assets\FrogController2D.cs" />
      <Compile Include="Assets\FrogMovement.cs" />
      <Compile Include="Assets\LevelChanger.cs" />

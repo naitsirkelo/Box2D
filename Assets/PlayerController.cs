@@ -9,7 +9,6 @@ public class PlayerController : MonoBehaviour {
 
     float horizontal;
     float vertical;
-    float dir;
 
     public float moveLimiter = 0.65f;
     public float verticalLimit = 0.8f;
@@ -46,7 +45,7 @@ public class PlayerController : MonoBehaviour {
 
         }
 
-       rigidbody.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed * verticalLimit);
+        rigidbody.velocity = new Vector2(horizontal * runSpeed, vertical * runSpeed * verticalLimit);
 
     }
 }

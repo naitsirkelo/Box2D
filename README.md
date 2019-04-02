@@ -1,6 +1,11 @@
 # Box2D
 
-## Features
+## To-Do
+
+- Lighting from flashlight
+- Darker background
+
+### Future Features
 
 - Superpowers (gun, flamethrower, grow, shrink, etc...)
 - Hidden levels
